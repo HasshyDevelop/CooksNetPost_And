@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <android.webkit.WebView
+                android:id="@+id/webViewHtml"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"></android.webkit.WebView>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

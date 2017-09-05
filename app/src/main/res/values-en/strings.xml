@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- [アプリ名] -->
+	<string name="app_name">CooksNet Post</string>
+	<!-- 投稿 -->
+	<string name="menu_create_recipe">Post</string>
+	<!-- マイレシピ -->
+	<string name="menu_my_recipe">My Recipe</string>
+	<!-- その他 -->
+	<string name="menu_more">Other</string>
+	<!-- アカウント -->
+	<string name="menu_more_account">Account</string>
+	<!-- 利用規約 -->
+	<string name="menu_more_rule">Terms of Use</string>
+	<!-- よくある質問 -->
+	<string name="menu_more_faq">Frequently Asked Questions</string>
+	<!-- CooksNetPostについて -->
+	<string name="menu_more_about">About CooksNetPost</string>
+	<!-- アプリ終了 -->
+	<string name="menu_more_exit">Exit</string>
+	<!-- アカウント設定 -->
+	<string name="login_title">Account Settings</string>
+	<!-- ログインＩＤ -->
+	<string name="login_edittext_hint_nickname">Login ID</string>
+	<!-- パスワード -->
+	<string name="login_edittext_hint_password">Password</string>
+	<!-- ログイン -->
+	<string name="login_button_login">Login</string>
+	<!-- アカウントをお持ちでない方は -->
+	<string name="login_textview_noaccount">Need a CooksNet Account?</string>
+	<!-- アカウント新規登録 -->
+	<string name="login_button_signup">Sign up for CooksNet</string>
+	<!-- Success -->
+	<string name="login_toast_success">Success</string>
+	<!-- ログインＩＤ-->
+	<string name="account_textview_nickname">Login ID</string>
+	<!-- ログイン情報の保存 -->
+	<string name="account_textview_save">Save login info</string>
+	<!-- ログアウト-->
+	<string name="account_button_logout">Logout</string>
+	<!-- レシピをつくる -->
+	<string name="create_recipe_title">Create Recipe</string>
+	<!-- レシピのタイトル -->
+	<string name="create_recipe_textview_recipes_title">Recipe\'s Title</string>
+	<!-- タップしてタイトルを入力 -->
+	<string name="create_recipe_textview_hint_recipes_title">Tap to Input Title</string>
+	<!-- レシピの写真 -->
+	<string name="create_recipe_textview_recipes_photo">Recipe\'s Picture</string>
+	<!-- ガイドラインに同意する -->
+	<string name="create_recipe_textview_guideline">Accept the Guideline</string>
+	<!-- 作成 -->
+	<string name="create_recipe_button_create">Create</string>
+	<!-- ガイドライン -->
+	<string name="guideline_title">the Guideline</string>
+	<!-- 公開 -->
+	<string name="my_recipe_menu_publish">Release</string>
+	<!-- 下書 -->
+	<string name="my_recipe_menu_draft">Draft</string>
+	<!-- 公開レシピはありません -->
+	<string name="publish_textview_none_publish_recipe">There is no released recipe.</string>
+	<!-- 下書きレシピはありません -->
+	<string name="publish_textview_none_draft_recipe">There is no draft.</string>
+	<!-- レシピをつくる -->
+	<string name="publish_button_create_recipe">Create Recipe</string>
+	<!-- タップして編集 -->
+	<string name="edit_recipe_textview_title">Tap to Edit</string>
+	<!-- タップして紹介文を入力 -->
+	<string name="edit_recipe_textview_hint_description">Tap to Input Introduction</string>
+	<!-- タップして材料を編集 -->
+	<string name="edit_recipe_textview_hint_ingredient">Tap and Edit Ingredients</string>
+	<!-- タップして作り方を編集 -->
+	<string name="edit_recipe_textview_hint_step">Tap and Edit Preparation</string>
+	<!-- タップしてひとことノートを入力 -->
+	<string name="edit_recipe_textview_hint_advice">Tap to Input Tweet Note</string>
+	<!-- 材料 -->
+	<string name="edit_recipe_textview_ingredient">Ingredient</string>
+	<!-- 作り方 -->
+	<string name="edit_recipe_textview_step">Preparation</string>
+	<!-- ひとことノート -->
+	<string name="edit_recipe_textview_advice">Tweet Note</string>
+	<!-- レシピID： -->
+	<string name="edit_recipe_textview_recipe_id">Recipe ID</string>
+	<!-- もっと見る -->
+	<string name="result_item_textview_more">More</string>
+	<!-- レシピの内容が変更されました。 -->
+	<string name="edit_recipe_textview_save">Recipe is modified.</string>
+	<!-- 変更を保存 -->
+	<string name="edit_recipe_button_save">Save the Change</string>
+	<!-- 下書きレシピを編集中 -->
+	<string name="edit_recipe_textview_draft">Now editing draft…</string>
+	<!-- レシピを公開 -->
+	<string name="edit_recipe_button_draft_to_publish">Release Appliation</string>
+	<!-- 公開レシピを表示中 -->
+	<string name="edit_recipe_textview_publish">Now displaying posted recipe…</string>
+	<!-- 下書きに戻す -->
+	<string name="edit_recipe_button_publish_to_draft">Back to Draft</string>
+	<!-- ログインできませんでした -->
+	<string name="dialog_login_failed_title">Login Failed</string>
+	<!-- ログインID、パスワードを確認してください。 -->
+	<string name="dialog_login_failed_message">Please confirm your login ID and password.</string>
+	<!-- レシピを投稿する前にWebサイトよりプロフィールを登録してください。 -->
+	<string name="dialog_login_not_profiled_message">Before post your recipe, please register your profile from web site.</string>
+	<!-- タイトルを入力してください。 -->
+	<string name="dialog_none_title">Please input title.</string>
+	<!-- 完成品の写真を選択してください。 -->
+	<string name="dialog_none_photo">Please select a recipe\'s picture.</string>
+	<!-- ガイドラインに同意してください。 -->
+	<string name="dialog_accept_guideline">Please agree to the guideline.</string>
+	<!-- 以下の項目は入力必須です。 -->
+	<string name="dialog_required">Below items must not be blank.</string>
+	<!-- 最低1個の材料が必要です。 -->
+	<string name="dialog_least_ingredient">At least one ingredient is required.</string>
+	<!-- 最低1個の作り方が必要です。 -->
+	<string name="dialog_least_step">At least one preparation is required.</string>
+    <!-- 写真 -->
+    <string name="dialog_photo_title">Picture</string>
+	<!-- 紹介文 -->
+	<string name="dialog_description_title">Introduction</string>
+	<!-- 材料 -->
+	<string name="dialog_ingredient_title">Ingredient</string>
+	<!-- 例）何人分-->
+	<string name="dialog_ingredient_total_quantity_hint">e.g. For two</string>
+	<!-- 材料 -->
+	<string name="dialog_ingredient_ingredient_name_hint">Ingredient</string>
+	<!-- 分量 -->
+	<string name="dialog_ingredient_ingredient_quantity_hint">Quantity</string>
+	<!-- 登録できる材料は20個までです。 -->
+	<string name="dialog_ingredient_count_over">You can register 20 ingredients as maximum.</string>
+	<!-- 完了 -->
+	<string name="dialog_ingredient_end">Done</string>
+	<!-- 作り方 -->
+	<string name="dialog_step_title">Preparation</string>
+	<!-- タップして作り方を入力 -->
+	<string name="dialog_step_text_hint">Tap to Input Preparation</string>
+	<!-- 登録できる作り方は20個までです。 -->
+	<string name="dialog_step_count_over">You can register 20 preparations as maximum.</string>
+	<!-- 完了 -->
+	<string name="dialog_step_end">Done</string>
+	<!-- ひとことノート -->
+	<string name="dialog_advice_title">Tweet Note</string>
+	<!-- レシピの内容が変更されています。\n保存せずに戻りますか？ -->
+	<string name="dialog_back_alert">Now modifying the recipe…\nDo you want to back without saving?</string>
+	<!-- このレシピを公開しますか？ -->
+	<string name="dialog_publish_question">Do you want to release this recipe?</string>
+	<!-- レシピ公開要求を受け付けました。\n投稿されたレシピは承認後に公開されます。 -->
+	<string name="dialog_publish_readme">We accepted your request for publishing your recipe.\nPosted recipe is released after an approval.</string>
+	<!-- このレシピを削除しますか？\n一度削除すると元には戻せません。 -->
+	<string name="dialog_delete_alert">Do you want to delete this recipe?\nOnce you deleted, it cannot be retrieved.</string>
+	<!-- このレシピを下書き状態に戻してもいいですか？ -->
+	<string name="dialog_draft_question">Do you want your recipe back to draft status?</string>
+	<!-- レシピを下書き状態に戻しました。 -->
+	<string name="dialog_draft_readme">Recipe is returned to draft status.</string>
+    <!-- アプリを終了してもよろしいでしょうか？ -->
+    <string name="dialog_exit">Do you want to quit application?</string>
+	<!-- 少々お待ちください... -->
+	<string name="dialog_progress">Please wait...</string>
+	<!-- システムエラー -->
+	<string name="dialog_system_error_title">System Error</string>
+	<!-- ネットワークエラー -->
+	<string name="dialog_network_error_title">Network Error</string>
+	<!-- インターネット接続がオフラインのようです。 -->
+	<string name="dialog_network_error_message">The internet connection appears to be offline.</string>
+	<!-- http Error -->
+	<string name="dialog_http_error_title">http Error</string>
+	<!-- システム管理者にお問い合わせください。 -->
+	<string name="dialog_input_error_message_unexpected_err">Please contact system admin</string>
+	<!-- OK -->
+	<string name="dialog_ok">OK</string>
+	<!-- Cancel -->
+	<string name="dialog_cancel">Cancel</string>
+	<!-- Close -->
+	<string name="dialog_close">Close</string>
+	<!-- Close -->
+	<string name="dialog_close_ok">Close</string>
+
+</resources>

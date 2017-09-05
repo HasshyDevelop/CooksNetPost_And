@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<group android:id="@+id/menu_menu1">
+		<item android:title="@string/menu_create_recipe" android:id="@+id/menu_create_recipe"
+			android:icon="@drawable/menu_post"></item>
+		<item android:title="@string/menu_my_recipe" android:id="@+id/menu_my_recipe"
+			android:icon="@drawable/menu_myrecipe"></item>
+		<item android:title="@string/menu_more" android:id="@+id/menu_more"
+			android:icon="@android:drawable/ic_menu_more"></item>
+		<item android:title="@string/menu_more_exit" android:id="@+id/menu_exit"
+			android:icon="@drawable/menu_exit"></item>
+	</group>
+</menu>

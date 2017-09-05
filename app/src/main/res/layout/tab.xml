@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout style="@style/Subtitle.Line.Dark" />
+
+    <LinearLayout style="@style/Subtitle.Line.Bright" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            style="@style/Subtitle.Line.Bright"
+            android:layout_width="0.5dp"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center_vertical" >
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/Subtitle.Line.Dark"
+            android:layout_width="0.5dp"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center_vertical" >
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10sp"
+                android:src="@android:drawable/ic_menu_share" >
+            </ImageView>
+
+            <TextView
+                android:id="@+id/title"
+                style="?android:attr/tabWidgetStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text=""
+                android:paddingLeft="10sp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/tab_text" >
+            </TextView>
+        </LinearLayout>
+    </LinearLayout>
+
+	<LinearLayout style="@style/Subtitle.Line.Middle" />
+
+</LinearLayout>

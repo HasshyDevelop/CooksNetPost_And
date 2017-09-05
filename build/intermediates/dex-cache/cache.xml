@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Hashi_MacMini/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/Hashi_MacMini/Desktop/Develop/project/CooksNetPost_Android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_028329bda4eb603114dfdfc745efde2ff6625521.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hashi_MacMini/.android/build-cache/300ef0e09bdeaaa106681ff31a4510865f7b64dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Hashi_MacMini/Desktop/Develop/project/CooksNetPost_Android/app/build/intermediates/pre-dexed/debug/classes_e5e9b2e291cc4233de4a19bb04241897e4afe85d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hashi_MacMini/.android/build-cache/61e2227a4bb46626ab54d6ecd86a6da7e5c3a143/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/Hashi_MacMini/Desktop/Develop/project/CooksNetPost_Android/app/build/intermediates/pre-dexed/debug/classes_56c3fa4c870c86aa06bbb81fbc9910ad67312d24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hashi_MacMini/.android/build-cache/b3a847d481a47689c290126825cece6731c858c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Hashi_MacMini/Desktop/Develop/project/CooksNetPost_Android/app/build/intermediates/pre-dexed/debug/classes_bd383129a2722bbbf39b8ff5741ceff4a5f843c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hashi_MacMini/.android/build-cache/737ec461835ee8eceaae8fadd61079d94ea12d3b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Hashi_MacMini/Desktop/Develop/project/CooksNetPost_Android/app/build/intermediates/pre-dexed/debug/classes_f49bdb88ebf709b21df5106f96fe4a46052b5e8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hashi_MacMini/.android/build-cache/7eef5348aff1ee7a2ff933342fc799601d6df696/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Hashi_MacMini/Desktop/Develop/project/CooksNetPost_Android/app/build/intermediates/pre-dexed/debug/classes_69e88506fe070b6ed3215ad139f8c8a1c8d2712d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hashi_MacMini/.android/build-cache/b3a847d481a47689c290126825cece6731c858c1/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Hashi_MacMini/Desktop/Develop/project/CooksNetPost_Android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0cea2bd4a1dd5535dc034c7e6dcdf72a95f6ef73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hashi_MacMini/.android/build-cache/f951fd401e0e6d180d254273efebc7470ce4a26a/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Hashi_MacMini/Desktop/Develop/project/CooksNetPost_Android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2b77360f71d1f8d6bfe92d48fa43f09f35ed9907.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hashi_MacMini/.android/build-cache/f951fd401e0e6d180d254273efebc7470ce4a26a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Hashi_MacMini/Desktop/Develop/project/CooksNetPost_Android/app/build/intermediates/pre-dexed/debug/classes_b11affdba96861210cecb733ae53b559852fcc78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hashi_MacMini/.android/build-cache/d5287c83286dae30d3a4562fe34f75b57df114fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/Hashi_MacMini/Desktop/Develop/project/CooksNetPost_Android/app/build/intermediates/pre-dexed/debug/classes_9d3f155c036ac27d5d1628d80539772b74f08180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hashi_MacMini/.android/build-cache/66a7e8997ac8a64051c6b8d6f6eb50c0dd356153/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Hashi_MacMini/Desktop/Develop/project/CooksNetPost_Android/app/build/intermediates/pre-dexed/debug/classes_226b1a3f25bba0792ae6367b97cf1bd3ea2385ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hashi_MacMini/.android/build-cache/717f5b1191dc27774147b4f8fdb6c7381dffe6b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Hashi_MacMini/Desktop/Develop/project/CooksNetPost_Android/app/build/intermediates/pre-dexed/debug/classes_bc8ca9d8184e43425978572a8a710e07f3e89e27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hashi_MacMini/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Hashi_MacMini/Desktop/Develop/project/CooksNetPost_Android/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_f11595d38bb0ca3eeda174e1c984e248f1b14ed6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hashi_MacMini/.android/build-cache/7eef5348aff1ee7a2ff933342fc799601d6df696/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Hashi_MacMini/Desktop/Develop/project/CooksNetPost_Android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_dbfed8f3361c5c5f1de302752f0012b9eb312d86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hashi_MacMini/.android/build-cache/d344d47f1151c86a2d7aa5c23cd45eb1add68404/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Hashi_MacMini/Desktop/Develop/project/CooksNetPost_Android/app/build/intermediates/pre-dexed/debug/classes_48b6844074eea44269295a8ed20b7f6c63b4d1f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hashi_MacMini/.android/build-cache/d344d47f1151c86a2d7aa5c23cd45eb1add68404/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Hashi_MacMini/Desktop/Develop/project/CooksNetPost_Android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ca0002a81542461682424924236d582cb3d37042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hashi_MacMini/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/Hashi_MacMini/Desktop/Develop/project/CooksNetPost_Android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_fb0eb158575fbdc86220072f032216aa55fe4a8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hashi_MacMini/.android/build-cache/717f5b1191dc27774147b4f8fdb6c7381dffe6b5/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Hashi_MacMini/Desktop/Develop/project/CooksNetPost_Android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_af20fbbf01e175effd6e9f05f7eb0093813a1780.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hashi_MacMini/.android/build-cache/33794a69b039b7f776829be74a5689f75b59a177/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Hashi_MacMini/Desktop/Develop/project/CooksNetPost_Android/app/build/intermediates/pre-dexed/debug/classes_c68b93fa78fac19300d298a3ce5ffba8231b0dc3.jar" />
+    </item>
+
+</items>

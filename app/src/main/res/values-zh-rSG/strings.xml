@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- [アプリ名] -->
+    <string name="app_name">CooksNet Post</string>
+    <!-- 投稿 -->
+    <string name="menu_create_recipe">刊登</string>
+    <!-- マイレシピ -->
+    <string name="menu_my_recipe">我的食谱</string>
+    <!-- その他 -->
+    <string name="menu_more">其他</string>
+    <!-- アカウント -->
+    <string name="menu_more_account">账号</string>
+    <!-- 利用規約 -->
+    <string name="menu_more_rule">使用规章</string>
+    <!-- よくある質問 -->
+    <string name="menu_more_faq">常见问答</string>
+    <!-- CooksNetPostについて -->
+    <string name="menu_more_about">关于CooksNetPost</string>
+    <!-- アプリ終了 -->
+    <string name="menu_more_exit">离开</string>
+    <!-- アカウント設定 -->
+    <string name="login_title">账号名称</string>
+    <!-- ログインＩＤ -->
+    <string name="login_edittext_hint_nickname">登入ID</string>
+    <!-- パスワード -->
+    <string name="login_edittext_hint_password">密码</string>
+    <!-- ログイン -->
+    <string name="login_button_login">登入</string>
+    <!-- アカウントをお持ちでない方は -->
+    <string name="login_textview_noaccount">未持有账号</string>
+    <!-- アカウント新規登録 -->
+    <string name="login_button_signup">注册新账号</string>
+    <!-- Success -->
+    <string name="login_toast_success">成功</string>
+    <!-- ログインＩＤ-->
+    <string name="account_textview_nickname">登入ID</string>
+    <!-- ログイン情報の保存 -->
+    <string name="account_textview_save">储存登入数据</string>
+    <!-- ログアウト-->
+    <string name="account_button_logout">注销</string>
+    <!-- レシピをつくる -->
+    <string name="create_recipe_title">制作食谱</string>
+    <!-- レシピのタイトル -->
+    <string name="create_recipe_textview_recipes_title">食谱标题</string>
+    <!-- タップしてタイトルを入力 -->
+    <string name="create_recipe_textview_hint_recipes_title">点选输入食谱标题</string>
+    <!-- レシピの写真 -->
+    <string name="create_recipe_textview_recipes_photo">食谱照片</string>
+    <!-- ガイドラインに同意する -->
+    <string name="create_recipe_textview_guideline">同意食谱发表规范</string>
+    <!-- 作成 -->
+    <string name="create_recipe_button_create">制作</string>
+    <!-- ガイドライン -->
+    <string name="guideline_title">食谱发表规范</string>
+    <!-- 公開 -->
+    <string name="my_recipe_menu_publish">公开</string>
+    <!-- 下書 -->
+    <string name="my_recipe_menu_draft">草稿</string>
+    <!-- 公開レシピはありません -->
+    <string name="publish_textview_none_publish_recipe">没有已公开的食谱</string>
+    <!-- 下書きレシピはありません -->
+    <string name="publish_textview_none_draft_recipe">没有草稿</string>
+    <!-- レシピをつくる -->
+    <string name="publish_button_create_recipe">制作食谱</string>
+    <!-- タップして編集 -->
+    <string name="edit_recipe_textview_title">点选编辑</string>
+    <!-- タップして紹介文を入力 -->
+    <string name="edit_recipe_textview_hint_description">点选输入食谱介绍</string>
+    <!-- タップして材料を編集 -->
+    <string name="edit_recipe_textview_hint_ingredient">点选编辑食材</string>
+    <!-- タップして作り方を編集 -->
+    <string name="edit_recipe_textview_hint_step">点选编辑做法步骤</string>
+    <!-- タップしてひとことノートを入力 -->
+    <string name="edit_recipe_textview_hint_advice">点选输入小技巧‧料理重点</string>
+    <!-- 材料 -->
+    <string name="edit_recipe_textview_ingredient">食材及份量</string>
+    <!-- 作り方 -->
+    <string name="edit_recipe_textview_step">做法</string>
+    <!-- ひとことノート -->
+    <string name="edit_recipe_textview_advice">小技巧‧料理重点</string>
+    <!-- レシピID： -->
+    <string name="edit_recipe_textview_recipe_id">食谱ID：</string>
+    <!-- もっと見る -->
+    <string name="result_item_textview_more">更多</string>
+    <!-- レシピの内容が変更されました。 -->
+    <string name="edit_recipe_textview_save">食谱的内容已变更</string>
+    <!-- 変更を保存 -->
+    <string name="edit_recipe_button_save">储存变更</string>
+    <!-- 下書きレシピを編集中 -->
+    <string name="edit_recipe_textview_draft">编辑草稿</string>
+    <!-- レシピを公開 -->
+    <string name="edit_recipe_button_draft_to_publish">公开食谱</string>
+    <!-- 公開レシピを表示中 -->
+    <string name="edit_recipe_textview_publish">显示公开的食谱</string>
+    <!-- 下書きに戻す -->
+    <string name="edit_recipe_button_publish_to_draft">恢复成草稿</string>
+    <!-- ログインできませんでした -->
+    <string name="dialog_login_failed_title">登入错误</string>
+    <!-- ログインID、パスワードを確認してください。 -->
+    <string name="dialog_login_failed_message">请确认登入ID及密码</string>
+    <!-- レシピを投稿する前にWebサイトよりプロフィールを登録してください。 -->
+    <string name="dialog_login_not_profiled_message">发表食谱前请利用网站注册个人信息</string>
+    <!-- タイトルを入力してください。 -->
+    <string name="dialog_none_title">请输入标题</string>
+    <!-- 完成品の写真を選択してください。 -->
+    <string name="dialog_none_photo">请上传料理完成状态(如装盘)的照片</string>
+    <!-- ガイドラインに同意してください。 -->
+    <string name="dialog_accept_guideline">请同意食谱发表规范</string>
+    <!-- 以下の項目は入力必須です。 -->
+    <string name="dialog_required">以下项目为必填</string>
+    <!-- 最低1個の材料が必要です。 -->
+    <string name="dialog_least_ingredient">至少需要输入一项食材</string>
+    <!-- 最低1個の作り方が必要です。 -->
+    <string name="dialog_least_step">至少需要输入一项做法步骤</string>
+    <!-- 写真 -->
+    <string name="dialog_photo_title">食谱照片</string>
+    <!-- 紹介文 -->
+    <string name="dialog_description_title">食谱介绍</string>
+    <!-- 材料 -->
+    <string name="dialog_ingredient_title">食材及份量</string>
+    <!-- 例）何人分 -->
+    <string name="dialog_ingredient_total_quantity_hint">例）几人份</string>
+    <!-- 材料 -->
+    <string name="dialog_ingredient_ingredient_name_hint">食材及份量</string>
+    <!-- 分量 -->
+    <string name="dialog_ingredient_ingredient_quantity_hint">用量</string>
+    <!-- 登録できる材料は20個までです。 -->
+    <string name="dialog_ingredient_count_over">最多可以输入20项食材</string>
+    <!-- 完了 -->
+    <string name="dialog_ingredient_end">完成</string>
+    <!-- 作り方 -->
+    <string name="dialog_step_title">做法</string>
+    <!-- タップして作り方を入力 -->
+    <string name="dialog_step_text_hint">点选输入料理做法步骤</string>
+    <!-- 登録できる作り方は20個までです。 -->
+    <string name="dialog_step_count_over">最多只可以输入20个做法步骤</string>
+    <!-- 完了 -->
+    <string name="dialog_step_end">完成</string>
+    <!-- ひとことノート -->
+    <string name="dialog_advice_title">小技巧‧料理重点</string>
+    <!-- レシピの内容が変更されています。\n保存せずに戻りますか？ -->
+    <string name="dialog_back_alert">变更食谱内容\n不储存就离开？</string>
+    <!-- このレシピを公開しますか？ -->
+    <string name="dialog_publish_question">是否将这篇食谱申请公开？</string>
+    <!-- レシピ公開要求を受け付けました。\n投稿されたレシピは承認後に公開されます。 -->
+    <string name="dialog_publish_readme">已受理食谱公开申请\n发表食谱将在通过审核后公开</string>
+    <!-- このレシピを削除しますか？\n一度削除すると元には戻せません。 -->
+    <string name="dialog_delete_alert">是否删除这篇食谱？\n删除后将无法复原</string>
+    <!-- このレシピを下書き状態に戻してもいいですか？ -->
+    <string name="dialog_draft_question">是否将这篇食谱恢复成草稿？</string>
+    <!-- レシピを下書き状態に戻しました。 -->
+    <string name="dialog_draft_readme">食谱已恢复成草稿</string>
+    <!-- アプリを終了してもよろしいでしょうか？ -->
+    <string name="dialog_exit">是否要结束应用程序？</string>
+    <!-- 少々お待ちください... -->
+    <string name="dialog_progress">请稍后...</string>
+    <!-- システムエラー -->
+    <string name="dialog_system_error_title">系统错误</string>
+    <!-- ネットワークエラー -->
+    <string name="dialog_network_error_title">网络错误</string>
+    <!-- インターネット接続がオフラインのようです。 -->
+    <string name="dialog_network_error_message">没有侦测到网络联机。</string>
+    <!-- http Error -->
+    <string name="dialog_http_error_title">http Error</string>
+    <!-- システム管理者にお問い合わせください。 -->
+    <string name="dialog_input_error_message_unexpected_err">请询问系统管理员。</string>
+    <!-- OK -->
+    <string name="dialog_ok">确定</string>
+    <!-- Cancel -->
+    <string name="dialog_cancel">取消</string>
+    <!-- Close -->
+    <string name="dialog_close">确定</string>
+    <!-- Close -->
+    <string name="dialog_close_ok">确定</string>
+
+</resources>
