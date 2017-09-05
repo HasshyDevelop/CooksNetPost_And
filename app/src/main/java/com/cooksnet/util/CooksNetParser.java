@@ -34,7 +34,7 @@ public class CooksNetParser {
 
 			ResultItem item = null;
 			String tag = "";
-			for (int e = xpp.getEventType(); e != XmlPullParser.END_DOCUMENT; e = xpp.next()) {
+			for (int e = xpp.getEventType();  e != XmlPullParser.END_DOCUMENT; e = xpp.next()) {
 				switch (e) {
 				case XmlPullParser.START_TAG:
 					tag = xpp.getName();
